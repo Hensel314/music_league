@@ -5,7 +5,7 @@ Music League is a competition where players must submit a song that fits the pro
 
 Data from each round was collected by an external program, and then aggregated, cleaned, and verified against the data on the site by me. I have altered the names to protect anonymity. 
 
-visualizations - 
+visualizations - https://public.tableau.com/views/music_league_17327373344570/Totals?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Field Definitions by Table
 ### **ml_votes**
